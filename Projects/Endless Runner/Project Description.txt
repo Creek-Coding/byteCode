@@ -1,0 +1,3 @@
+This project was made for a byteCode "Code With Us" livestream aired July 27th, 2020.
+
+Created by: Josh Diaz and Adam Nguyen
